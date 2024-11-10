@@ -36,7 +36,7 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/pixend-team/Django-Crawler">
     <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pixend-team&repo=Django-Crawler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Django-Crawler" />
   </a>
@@ -45,12 +45,12 @@ me.say_hi()
 </a>
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/HoseinNasiriShahraki/Speed-Estimation-Yolo">
-    <img height="160" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Speed-Estimation-Yolo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Speed-Estimation-Yolo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
   <a href="https://github.com/HoseinNasiriShahraki/Persian-License-Plate-Recognition">
-    <img height="190em" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Persian-License-Plate-Recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Persian-License-Plate-Recognition"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Persian-License-Plate-Recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Persian-License-Plate-Recognition"/>
 </a>
 </p>
 
