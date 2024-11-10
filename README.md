@@ -14,7 +14,7 @@ class SoftwareEngineer:
         self.first_name = "Hosein"
         self.last_name = "Nasiri Shahraki"
         self.role = "Software Engineer"
-        self.language_spoken = ["farsi", "english"]
+        self.language_spoken = ["Persian", "English"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
