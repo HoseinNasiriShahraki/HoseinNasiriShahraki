@@ -25,39 +25,42 @@ me.say_hi()
 ```
 
 
-## Skills
-- 👨‍💻 Python, C++
-- ⚙️ Django, Rest (DRF), Fast-API, Docker
-- 👁️ Pytorch, Transformers, CNN 
-- 💽 Postgres, MySQL, SQL, Mongo 
+## <img src="https://img.icons8.com/?size=58&id=6MP1kA74ozKg&format=png&color=000000">Skills
+- <img src="https://img.icons8.com/?size=24&id=pIJdjOoL6KfU&format=png&color=000000"> Python, <img src="https://img.icons8.com/?size=24&id=nBKHe4Tn9k59&format=png&color=000000">C++
+- <img src="https://img.icons8.com/?size=20&id=qc3TyHJPxEoH&format=png&color=000000"> Django,<img src="https://img.icons8.com/?size=20&id=rCXEa92ZGhRc&format=png&color=000000"> Rest (DRF),<img src="https://img.icons8.com/?size=20&id=55190&format=png&color=000000"> Fast-API,<img src="https://img.icons8.com/?size=20&id=TkG10j-DmXkU&format=png&color=000000">Docker
+- <img src="https://img.icons8.com/?size=20&id=jH4BpkMnRrU5&format=png&color=000000"/> Pytorch, <img src="https://img.icons8.com/?size=20&id=K8PRHAU22SVK&format=png&color=000000"> Transformers, <img src="https://img.icons8.com/?size=20&id=1TO5ntxsVxDh&format=png&color=000000"/> CNN 
+- <img src="https://img.icons8.com/?size=20&id=dUPqiVW9GF2O&format=png&color=000000"> Postgres,<img src="https://img.icons8.com/?size=20&id=8httoRHg3Sbt&format=png&color=000000"> MySQL, <img src="https://img.icons8.com/?size=20&id=42904&format=png&color=000000">SQL,<img src="https://img.icons8.com/?size=20&id=bosfpvRzNOG8&format=png&color=000000"> Mongo 
 + a lot more :D
 
 
 
 ## 🗂️ Highlight Projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/pixend-team/Django-Crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixend-team&repo=Django-Crawler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Django-Crawler" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pixend-team&repo=Django-Crawler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Django-Crawler" />
   </a>
-
   <a href="https://github.com/HoseinNasiriShahraki/Attraction-Recommender-Doc2vec">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Attraction-Recommender-Doc2vec&show_icons=true&line_height=280&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Attraction-Recommender-Doc2vec"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Attraction-Recommender-Doc2vec&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Attraction-Recommender-Doc2vec"/>
 </a>
+</p>
 
-<a href="https://github.com/HoseinNasiriShahraki/Speed-Estimation-Yolo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Speed-Estimation-Yolo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Speed-Estimation-Yolo" />
+<p align="right">
+  <a href="https://github.com/HoseinNasiriShahraki/Speed-Estimation-Yolo">
+    <img height="160" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Speed-Estimation-Yolo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
+  <a href="https://github.com/HoseinNasiriShahraki/Persian-License-Plate-Recognition">
+    <img height="190em" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Persian-License-Plate-Recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Persian-License-Plate-Recognition"/>
 </a>
-<a href="https://github.com/HoseinNasiriShahraki/Persian-License-Plate-Recognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HoseinNasiriShahraki&repo=Persian-License-Plate-Recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Persian-License-Plate-Recognition" />
-</a>
+</p>
+
 
 
 
 <div align="center">
   <a href="https://github.com/HoseinNasiriShahraki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoseinNasiriShahraki&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNasiriShahraki&layout=compact&langs_count=10"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=HoseinNasiriShahraki&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNasiriShahraki&layout=compact&langs_count=100"/>
 </div>
 
 <!-- Social media icons -->
