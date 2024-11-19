@@ -72,7 +72,7 @@ me.say_hi()
   <a href= "https://www.linkedin.com/in/hosein-nasiri-shahraki"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000"/></a>
   <a href= "https://outlook.com/hosein.nasiri@outlook.com"><img src="https://img.icons8.com/?size=100&id=CXYJjRfKlwI9&format=png&color=000000"/></a>
   <a href= "t.me/OkNotOkComputer"><img src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000"/></a>
-  <a href= "https://discordapp.com/users/705282609982472343"><img width="48" height="48" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="discord-new-logo"/></a>
+  <a href= "https://discordapp.com/users/705282609982472343"><img src="https://img.icons8.com/?size=100&id=9J9mwdLXxKpa&format=png&color=000000"></a>
 <!--   <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a> -->
 <!--   <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a> -->
 </p>
