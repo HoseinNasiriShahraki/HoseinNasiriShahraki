@@ -24,13 +24,17 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-
-## <img src="https://img.icons8.com/?size=58&id=6MP1kA74ozKg&format=png&color=000000">Skills
-- <img src="https://img.icons8.com/?size=24&id=pIJdjOoL6KfU&format=png&color=000000"> Python, <img src="https://img.icons8.com/?size=24&id=nBKHe4Tn9k59&format=png&color=000000">C++
-- <img src="https://img.icons8.com/?size=20&id=qc3TyHJPxEoH&format=png&color=000000"> Django,<img src="https://img.icons8.com/?size=20&id=rCXEa92ZGhRc&format=png&color=000000"> Rest (DRF),<img src="https://img.icons8.com/?size=20&id=55190&format=png&color=000000"> Fast-API,<img src="https://img.icons8.com/?size=20&id=TkG10j-DmXkU&format=png&color=000000">Docker
+<p align="center">
+    <img src="https://img.icons8.com/?size=58&id=6MP1kA74ozKg&format=png&color=000000">
+    <h1 align="center">✩&emsp;Skills&emsp;✩</h1>
+</p>
+<div align="center">
+- <img src="https://img.icons8.com/?size=24&id=pIJdjOoL6KfU&format=png&color=000000"> Python, <img src="https://img.icons8.com/?size=24&id=nBKHe4Tn9k59&format=png&color=000000">C++ - <img src="https://img.icons8.com/?size=20&id=qc3TyHJPxEoH&format=png&color=000000"> Django,<img src="https://img.icons8.com/?size=20&id=rCXEa92ZGhRc&format=png&color=000000"> Rest (DRF),<img src="https://img.icons8.com/?size=20&id=55190&format=png&color=000000"> Fast-API,<img src="https://img.icons8.com/?size=20&id=TkG10j-DmXkU&format=png&color=000000">Docker
 - <img src="https://img.icons8.com/?size=20&id=jH4BpkMnRrU5&format=png&color=000000"/> Pytorch, <img src="https://img.icons8.com/?size=20&id=K8PRHAU22SVK&format=png&color=000000"> Transformers, <img src="https://img.icons8.com/?size=20&id=1TO5ntxsVxDh&format=png&color=000000"/> CNN 
 - <img src="https://img.icons8.com/?size=20&id=dUPqiVW9GF2O&format=png&color=000000"> Postgres,<img src="https://img.icons8.com/?size=20&id=8httoRHg3Sbt&format=png&color=000000"> MySQL, <img src="https://img.icons8.com/?size=20&id=42904&format=png&color=000000">SQL,<img src="https://img.icons8.com/?size=20&id=bosfpvRzNOG8&format=png&color=000000"> Mongo 
 + a lot more :D
+</div>
+
 
 
 
