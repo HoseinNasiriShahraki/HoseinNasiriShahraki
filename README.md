@@ -3,48 +3,63 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HoseinNasiriShahraki.HoseinNasiriShahraki)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+
 ```python
-#!/usr/bin/python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+""" Artificial Intelligence is no match for natural stupidity. """
 
-class SoftwareEngineer:
+import django, torch, cv2, mqtt
 
+class HoseinNasiriShahraki:
     def __init__(self):
-        self.first_name = "Hosein"
-        self.last_name = "Nasiri Shahraki"
+        self.name = "Hosein Nasiri Shahraki"
         self.role = "Software Engineer"
-        self.language_spoken = ["Persian", "English"]
+        self.languages = ["Persian", "English"]
+        self.stack = ["Django", "Docker", "PyTorch", "OpenCV", "PostgreSQL", "MQTT"]
+        self.motto = "Turning ☕ into clean code & smart systems 🤖"
+
+    def current_focus(self):
+        return [
+            "Building intelligent traffic control & IoT systems 🚦",
+            "Fine-tuning AI/ML models for real-world apps 🧠",
+            "Pushing Django apps into production with Docker 🐳"
+        ]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Hello, fellow human 👋. Welcome to my GitHub Profile!")
 
-
-me = SoftwareEngineer()
+me = HoseinNasiriShahraki()
 me.say_hi()
 ```
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
+![idk](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![is](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white)
 
 
-<p align="center">
-    <img src="https://img.icons8.com/?size=58&id=6MP1kA74ozKg&format=png&color=000000">
-    <h1 align="center">✩&emsp;Skills&emsp;✩</h1>
-</p>
-<div align="center">
-<img src="https://img.icons8.com/?size=24&id=pIJdjOoL6KfU&format=png&color=000000"> Python   <img src="https://img.icons8.com/?size=20&id=qc3TyHJPxEoH&format=png&color=000000"> Django   <img src="https://img.icons8.com/?size=20&id=TkG10j-DmXkU&format=png&color=000000">Docker  
-<img src="https://img.icons8.com/?size=20&id=jH4BpkMnRrU5&format=png&color=000000"/>   Pytorch <img src="https://img.icons8.com/?size=20&id=K8PRHAU22SVK&format=png&color=000000"> 
-  Transformers <img src="https://img.icons8.com/?size=20&id=1TO5ntxsVxDh&format=png&color=000000"/>   CNN 
-<img src="https://img.icons8.com/?size=20&id=dUPqiVW9GF2O&format=png&color=000000">   Postgres <img src="https://img.icons8.com/?size=20&id=8httoRHg3Sbt&format=png&color=000000"> MySQL <img src="https://img.icons8.com/?size=20&id=bosfpvRzNOG8&format=png&color=000000">   Mongo 
-+ a lot more :D
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/HoseinNasiriShahraki">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=HoseinNasiriShahraki&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNasiriShahraki&layout=compact&langs_count=100"/>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/705282609982472343)](https://discord.com/users/705282609982472343)
+![](https://github-readme-stats.vercel.app/api?username=HoseinNasiriShahraki&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNasiriShahraki&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HoseinNasiriShahraki&theme=dark&hide_border=true)
 
-<!-- Social media icons -->
+
+![](https://github-activity-graph.vercel.app/graph?username=HoseinNasiriShahraki&theme=react-dark&hide_border=true&area=true)
+
 
 <h3 align="center">Connect with me</h3>
 
@@ -58,5 +73,7 @@ me.say_hi()
 <!--   <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a> -->
 </p>
 
-<!-- Stats -->
 
+<div align="center">
+"First, solve the problem. Then, write the code."
+</div>
