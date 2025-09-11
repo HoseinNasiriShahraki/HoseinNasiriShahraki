@@ -51,10 +51,15 @@ me.say_hi()
 ![](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white)
 
+<div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/705282609982472343)](https://discord.com/users/705282609982472343)
+
 ![](https://github-readme-stats.vercel.app/api?username=HoseinNasiriShahraki&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoseinNasiriShahraki&theme=dark&hide_border=true)
+
+</div>
 
 
 ![](https://github-activity-graph.vercel.app/graph?username=HoseinNasiriShahraki&theme=react-dark&hide_border=true&area=true)
