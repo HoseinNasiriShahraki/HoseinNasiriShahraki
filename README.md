@@ -54,7 +54,6 @@ me.say_hi()
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/705282609982472343)](https://discord.com/users/705282609982472343)
 ![](https://github-readme-stats.vercel.app/api?username=HoseinNasiriShahraki&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinNasiriShahraki&layout=compact&theme=dark&hide_border=true&langs_count=8)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoseinNasiriShahraki&theme=dark&hide_border=true)
 
 
