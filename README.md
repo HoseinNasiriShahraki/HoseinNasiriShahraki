@@ -59,6 +59,8 @@ me.say_hi()
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoseinNasiriShahraki&theme=dark&hide_border=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HoseinNasiriShahraki)]
+
 </div>
 
 
